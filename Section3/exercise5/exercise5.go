@@ -19,4 +19,5 @@ func main() {
 	y = string(x)
 	fmt.Println(y)
 	fmt.Printf("%T\n", y)
+	git
 }
